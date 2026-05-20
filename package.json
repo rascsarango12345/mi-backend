@@ -18,5 +18,8 @@
   "bugs": {
     "url": "https://github.com/rascsarango12345/mi-backend/issues"
   },
-  "homepage": "https://github.com/rascsarango12345/mi-backend#readme"
+  "homepage": "https://github.com/rascsarango12345/mi-backend#readme",
+  "dependencies": {
+    "express": "^5.2.1"
+  }
 }
